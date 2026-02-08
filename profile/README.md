@@ -50,5 +50,6 @@
   请先在任何一个仓库点击 🌟 Star，然后提交你的第一个 PR。<br>
   我们不在乎资历，只在乎你对“简化 AI”的热情。
 
-  **QQ 交流群**：[1081197052](https://qun.qq.com/universal-share/share?ac=1&authKey=eLkj1QLdUkC2LQAiLKW2tmH87UgnLxrp22jPc0q4vlCPVy84SOSYOR3coq8pNZuB&busi_data=eyJncm91cENvZGUiOiIxMDgxMTk3MDUyIiwidG9rZW4iOiJVbzB3dmJQNVl0cnozaFpKQmYycStPa2k3TEd2ZytIVTRENklkSHptcHhPU1JHK203QzgyNHhOcE9KSldhd1Q2IiwidWluIjoiOTE3ODExNzI2In0%3D&data=zyq7dImFnIpdAx5x2Zs8oKjKC8DAvkepKvOczDGKaOPHRi7YJGAcrwXq-3upjpICMZ1hK13zJ1UT9bzdTO8WpA&svctype=4&tempid=h5_group_info)
+  **QQ 交流群**：<a href="https://qun.qq.com/universal-share/share?ac=1&authKey=eLkj1QLdUkC2LQAiLKW2tmH87UgnLxrp22jPc0q4vlCPVy84SOSYOR3coq8pNZuB&busi_data=eyJncm91cENvZGUiOiIxMDgxMTk3MDUyIiwidG9rZW4iOiJVbzB3dmJQNVl0cnozaFpKQmYycStPa2k3TEd2ZytIVTRENklkSHptcHhPU1JHK203QzgyNHhOcE9KSldhd1Q2IiwidWluIjoiOTE3ODExNzI2In0%3D&data=zyq7dImFnIpdAx5x2Zs8oKjKC8DAvkepKvOczDGKaOPHRi7YJGAcrwXq-3upjpICMZ1hK13zJ1UT9bzdTO8WpA&svctype=4&tempid=h5_group_info" target="_blank">1081197052</a>
+
 </div>
